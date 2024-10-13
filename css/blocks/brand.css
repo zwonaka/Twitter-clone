@@ -1,0 +1,36 @@
+.layout__left-sidebar {
+  position: relative;
+  padding-top: 10px; 
+}
+
+.brand {
+  position: absolute;
+  top: 10px;
+  left: 10px; 
+  width: 30px;
+  height: 30px; 
+  filter: invert(46%) sepia(99%) saturate(1449%) hue-rotate(176deg) brightness(100%) contrast(91%);
+}
+
+.logo-icon {
+  width: 100%; 
+  height: 100%;
+  fill: #1da1f2; 
+}
+
+.sidebar-menu {
+  margin-top: 50px;
+}
+
+.sidebar-menu__item {
+  display: flex;
+  align-items: center;
+  padding: 10px 15px;
+  
+}
+
+.sidebar-menu__item-icon {
+  width: 24px; 
+  height: 24px; 
+  margin-right: 10px; 
+}
